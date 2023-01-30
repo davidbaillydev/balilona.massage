@@ -168,6 +168,7 @@ img {
   vertical-align: middle;
   border-style: none; }
 
+
 svg {
   overflow: hidden;
   vertical-align: middle; }
@@ -8742,7 +8743,7 @@ h1, h2, h3, h4, h5,
   .coach .img, .coach .text {
     width: 100%; }
   .coach .img {
-    height: 380px;
+    height: 480px;
     background-position: top center !important; }
   .coach .text .subheading {
     font-size: 13px;
@@ -9040,7 +9041,7 @@ textarea.form-control {
 
 @media (max-width: 767.98px) {
   .img-about {
-    height: 400px;
+    height: 300px;
     margin-bottom: 30px; } }
 
 .image-popup {
